@@ -102,3 +102,4 @@ D:\Repos\MVCRockers\MVCRockers\obj\Debug\MVCRockers.csproj.CoreCompileInputs.cac
 D:\Repos\MVCRockers\MVCRockers\obj\Debug\MVCRockers.csproj.CopyComplete
 D:\Repos\MVCRockers\MVCRockers\obj\Debug\MVCRockers.dll
 D:\Repos\MVCRockers\MVCRockers\obj\Debug\MVCRockers.pdb
+D:\Repos\MVCRockers\MVCRockers\obj\Debug\MVCRockers.csprojAssemblyReference.cache
