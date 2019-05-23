@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MVCRockers.Filters;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -27,6 +28,7 @@ namespace MVCRockers.Controllers
             return View("About");
         }
 
+        [MyLoggingFilter]
         public ActionResult Contact()
         {
             ViewBag.Message = "What do you think?";
